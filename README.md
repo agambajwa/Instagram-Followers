@@ -11,7 +11,7 @@ Replace your username and password in the arugements on line 53 ```my_bot = Inst
 
 ## Contributors
 
-**Agampreet Singh Bajwa** - *Initial work* - [agambajwa](https://github.com/agambajwa)
+**Agampreet Singh Bajwa** - [agambajwa](https://github.com/agambajwa)
 
 ## Acknowledgement
 Thanks to [aj-4](https://github.com/aj-4) for his work and his video.
