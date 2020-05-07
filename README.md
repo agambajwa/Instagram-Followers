@@ -5,7 +5,7 @@ Python code to tell you which people, that you follow, have unfollowed you on In
 Replace your username and password in the arugements on line 53 ```my_bot = InstagramBot('username', 'password')```
 
 ## Built With
-
+* Python
 * [Selenium](https://www.selenium.dev/)
 * [ChromeDriver](https://chromedriver.chromium.org)
 
