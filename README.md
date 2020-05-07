@@ -1,7 +1,18 @@
-## see who unfollowed you 🙎‍♂️
+# Instagram-Followers
+Python code to tell you which people, that you follow, have unfollowed you on Instagram.
 
-### Note: instagram changed their front end so this code won't work
+## Usage
+Replace your username and password in the arugements on line 53 ```my_bot = InstagramBot('username', 'password')```
 
-Feel free to still check it out to try to get it working again, or to build your own bot
+## Built With
 
-I'm going to leave the code as is so it matches the video but I'll check out PR's if you want to make them :)
+* [Selenium](https://www.selenium.dev/)
+* [ChromeDriver](https://chromedriver.chromium.org)
+
+## Contributors
+
+**Agampreet Singh Bajwa** - *Initial work* - [agambajwa](https://github.com/agambajwa)
+
+## Acknowledgement
+Thanks to [aj-4](https://github.com/aj-4) for his work and his video.
+[YouTube Video](https://www.youtube.com/watch?v=d2GBO_QjRlo)
